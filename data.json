@@ -6,7 +6,7 @@
   "potions": [],
   "plants": [],
   "goals": [],
-  "recipes": [],
+  "recipes": ["test"],
   "bookIdeas": [],
   "spellbook": [],
   "notes": [],
